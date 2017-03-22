@@ -1,0 +1,12 @@
+body{
+  background-color: ;
+}
+.boxes{
+  color: red;
+  background-color: grey;
+  margin: 10px;
+  border: 2px solid black;
+  display: inline-block;
+  padding: 50px;
+  border-radius: 10px;
+}
